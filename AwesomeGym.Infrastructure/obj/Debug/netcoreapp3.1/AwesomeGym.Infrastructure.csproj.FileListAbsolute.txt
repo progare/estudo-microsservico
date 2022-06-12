@@ -1,0 +1,13 @@
+C:\Users\andre.espinosa\source\repos\AwesomeGym\AwesomeGym.Infrastructure\bin\Debug\netcoreapp3.1\AwesomeGym.Infrastructure.deps.json
+C:\Users\andre.espinosa\source\repos\AwesomeGym\AwesomeGym.Infrastructure\bin\Debug\netcoreapp3.1\AwesomeGym.Infrastructure.dll
+C:\Users\andre.espinosa\source\repos\AwesomeGym\AwesomeGym.Infrastructure\bin\Debug\netcoreapp3.1\AwesomeGym.Infrastructure.pdb
+C:\Users\andre.espinosa\source\repos\AwesomeGym\AwesomeGym.Infrastructure\bin\Debug\netcoreapp3.1\AwesomeGym.Core.dll
+C:\Users\andre.espinosa\source\repos\AwesomeGym\AwesomeGym.Infrastructure\bin\Debug\netcoreapp3.1\AwesomeGym.Core.pdb
+C:\Users\andre.espinosa\source\repos\AwesomeGym\AwesomeGym.Infrastructure\obj\Debug\netcoreapp3.1\AwesomeGym.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\andre.espinosa\source\repos\AwesomeGym\AwesomeGym.Infrastructure\obj\Debug\netcoreapp3.1\AwesomeGym.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre.espinosa\source\repos\AwesomeGym\AwesomeGym.Infrastructure\obj\Debug\netcoreapp3.1\AwesomeGym.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\andre.espinosa\source\repos\AwesomeGym\AwesomeGym.Infrastructure\obj\Debug\netcoreapp3.1\AwesomeGym.Infrastructure.AssemblyInfo.cs
+C:\Users\andre.espinosa\source\repos\AwesomeGym\AwesomeGym.Infrastructure\obj\Debug\netcoreapp3.1\AwesomeGym.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\andre.espinosa\source\repos\AwesomeGym\AwesomeGym.Infrastructure\obj\Debug\netcoreapp3.1\AwesomeGym.Infrastructure.csproj.CopyComplete
+C:\Users\andre.espinosa\source\repos\AwesomeGym\AwesomeGym.Infrastructure\obj\Debug\netcoreapp3.1\AwesomeGym.Infrastructure.dll
+C:\Users\andre.espinosa\source\repos\AwesomeGym\AwesomeGym.Infrastructure\obj\Debug\netcoreapp3.1\AwesomeGym.Infrastructure.pdb

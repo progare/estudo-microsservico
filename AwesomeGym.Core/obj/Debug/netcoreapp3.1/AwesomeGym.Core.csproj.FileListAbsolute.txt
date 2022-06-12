@@ -1,0 +1,10 @@
+C:\Users\andre.espinosa\source\repos\AwesomeGym\AwesomeGym.Core\bin\Debug\netcoreapp3.1\AwesomeGym.Core.deps.json
+C:\Users\andre.espinosa\source\repos\AwesomeGym\AwesomeGym.Core\bin\Debug\netcoreapp3.1\AwesomeGym.Core.dll
+C:\Users\andre.espinosa\source\repos\AwesomeGym\AwesomeGym.Core\bin\Debug\netcoreapp3.1\AwesomeGym.Core.pdb
+C:\Users\andre.espinosa\source\repos\AwesomeGym\AwesomeGym.Core\obj\Debug\netcoreapp3.1\AwesomeGym.Core.csproj.AssemblyReference.cache
+C:\Users\andre.espinosa\source\repos\AwesomeGym\AwesomeGym.Core\obj\Debug\netcoreapp3.1\AwesomeGym.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre.espinosa\source\repos\AwesomeGym\AwesomeGym.Core\obj\Debug\netcoreapp3.1\AwesomeGym.Core.AssemblyInfoInputs.cache
+C:\Users\andre.espinosa\source\repos\AwesomeGym\AwesomeGym.Core\obj\Debug\netcoreapp3.1\AwesomeGym.Core.AssemblyInfo.cs
+C:\Users\andre.espinosa\source\repos\AwesomeGym\AwesomeGym.Core\obj\Debug\netcoreapp3.1\AwesomeGym.Core.csproj.CoreCompileInputs.cache
+C:\Users\andre.espinosa\source\repos\AwesomeGym\AwesomeGym.Core\obj\Debug\netcoreapp3.1\AwesomeGym.Core.dll
+C:\Users\andre.espinosa\source\repos\AwesomeGym\AwesomeGym.Core\obj\Debug\netcoreapp3.1\AwesomeGym.Core.pdb
